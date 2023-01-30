@@ -22,6 +22,7 @@ create python programs for views and urls
 create a HTML file of forms
 
 # PROGRAM:
+```
 <html>
 <head>
 <meta charset='utf-8'>
@@ -84,7 +85,7 @@ Area : <input type="text" name="area" value="area"></input>m<sup>2</sup><br/>
 </div>
 </body>
 </html>
-
+```
 # OUTPUT:
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/118707852/215269587-f14a426d-96e8-416a-bf14-c3c90df8d4ac.png)
